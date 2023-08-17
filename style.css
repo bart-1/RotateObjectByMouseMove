@@ -1,0 +1,30 @@
+h1, p {
+  font-family: Lato;
+}
+
+body {
+  background-color: black;
+  color: beige;
+  height: 100vh;
+  padding: 0;
+}
+
+.circle {
+  display: flex;
+  font-size: medium;
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+justify-content: center;
+align-items: center;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+
+
